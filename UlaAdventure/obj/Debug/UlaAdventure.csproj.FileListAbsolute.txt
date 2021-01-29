@@ -6,3 +6,5 @@ C:\Users\Richard Hyppolito\Desktop\Projetos em C\RPG\UlaAdventure\obj\Debug\UlaA
 C:\Users\Richard Hyppolito\Desktop\Projetos em C\RPG\UlaAdventure\obj\Debug\UlaAdventure.csproj.CoreCompileInputs.cache
 C:\Users\Richard Hyppolito\Desktop\Projetos em C\RPG\UlaAdventure\obj\Debug\UlaAdventure.exe
 C:\Users\Richard Hyppolito\Desktop\Projetos em C\RPG\UlaAdventure\obj\Debug\UlaAdventure.pdb
+C:\Users\Richard Hyppolito\Desktop\Projetos em C\RPG\UlaAdventure\obj\Debug\UlaAdventure.csprojAssemblyReference.cache
+C:\Users\Richard Hyppolito\Desktop\Projetos em C\RPG\UlaAdventure\obj\Debug\UlaAdventure.UlaAdventure.resources

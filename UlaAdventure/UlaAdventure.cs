@@ -21,5 +21,15 @@ namespace UlaAdventure
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bntTest_Click(object sender, EventArgs e)
+        {
+            lblGold.Text = "123";
+        }
     }
 }
