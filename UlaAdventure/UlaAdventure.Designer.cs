@@ -37,7 +37,6 @@ namespace UlaAdventure
             this.lblGold = new System.Windows.Forms.Label();
             this.lblExperience = new System.Windows.Forms.Label();
             this.lblLevel = new System.Windows.Forms.Label();
-            this.bntTest = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -109,22 +108,11 @@ namespace UlaAdventure
             this.lblLevel.Size = new System.Drawing.Size(0, 13);
             this.lblLevel.TabIndex = 7;
             // 
-            // bntTest
-            // 
-            this.bntTest.Location = new System.Drawing.Point(211, 170);
-            this.bntTest.Name = "bntTest";
-            this.bntTest.Size = new System.Drawing.Size(75, 23);
-            this.bntTest.TabIndex = 8;
-            this.bntTest.Text = "Test";
-            this.bntTest.UseVisualStyleBackColor = true;
-            this.bntTest.Click += new System.EventHandler(this.bntTest_Click);
-            // 
             // UlaAdventure
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(719, 651);
-            this.Controls.Add(this.bntTest);
             this.Controls.Add(this.lblLevel);
             this.Controls.Add(this.lblExperience);
             this.Controls.Add(this.lblGold);
@@ -151,7 +139,6 @@ namespace UlaAdventure
         private System.Windows.Forms.Label lblGold;
         private System.Windows.Forms.Label lblExperience;
         private System.Windows.Forms.Label lblLevel;
-        private System.Windows.Forms.Button bntTest;
     }
 }
 
